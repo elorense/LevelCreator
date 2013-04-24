@@ -1,0 +1,3 @@
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreatorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreatorContent\obj\x86\Debug\LevelCreatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreatorContent\obj\x86\Debug\LevelCreatorContent.contentprojResolveAssemblyReference.cache

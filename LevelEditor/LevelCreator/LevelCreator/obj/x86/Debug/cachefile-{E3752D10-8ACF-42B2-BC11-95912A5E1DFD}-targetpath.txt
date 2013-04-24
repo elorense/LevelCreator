@@ -1,0 +1,11 @@
+Content\cursor.xnb
+Content\gridBG.xnb
+Content\reg_cursor.xnb
+Content\grab_cursor.xnb
+Content\platform.xnb
+Content\frySprite.xnb
+Content\bigYeti.xnb
+Content\iconBack.xnb
+Content\minerSprite.xnb
+Content\smallYeti.xnb
+Content\ObjectList.xml

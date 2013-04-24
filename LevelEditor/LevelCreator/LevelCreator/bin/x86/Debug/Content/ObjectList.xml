@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Platform>
+    <TextureName type ="String">platform</TextureName>
+    <PositionInWorldSpace type ="Vector2">
+      <x>0</x>
+      <y>0</y>
+    </PositionInWorldSpace>
+  </Platform>
+  <PlayerSprite>
+    <TextureName type ="String">frySprite</TextureName>
+    <PositionInWorldSpace type ="Vector2">
+      <x>0</x>
+      <y>0</y>
+    </PositionInWorldSpace>
+  </PlayerSprite>
+  <NPC1>
+    <TextureName type ="String">minerSprite</TextureName>
+    <PositionInWorldSpace type ="Vector2">
+      <x>0</x>
+      <y>0</y>
+    </PositionInWorldSpace>
+  </NPC1>
+  <Enemy1>
+    <TextureName type ="String">smallYeti</TextureName>
+    <PositionInWorldSpace type ="Vector2">
+      <x>0</x>
+      <y>0</y>
+    </PositionInWorldSpace>
+  </Enemy1>
+  <BigEnemy1>
+    <TextureName type ="String">bigYeti</TextureName>
+    <PositionInWorldSpace type ="Vector2">
+      <x>0</x>
+      <y>0</y>
+    </PositionInWorldSpace>
+  </BigEnemy1>
+</XnaContent>

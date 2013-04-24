@@ -1,0 +1,57 @@
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\gridBG.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\reg_cursor.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\grab_cursor.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\platform.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\ObjectList.xml
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\gridBG.xnb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\reg_cursor.xnb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\grab_cursor.xnb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\platform.xnb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\ObjectList.xml
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.exe
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.pdb
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.exe
+C:\Users\Wilson\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\gridBG.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\reg_cursor.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\grab_cursor.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\platform.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\ObjectList.xml
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.csprojResolveAssemblyReference.cache
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\gridBG.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\reg_cursor.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\grab_cursor.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\platform.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\ObjectList.xml
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.csprojResolveAssemblyReference.cache
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.exe
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\obj\x86\Debug\LevelCreator.pdb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\frySprite.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\bigYeti.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\iconBack.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\minerSprite.xnb
+C:\Users\Edric\Desktop\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\smallYeti.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\frySprite.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\bigYeti.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\iconBack.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\minerSprite.xnb
+C:\Users\Edric\Dropbox\Game\LevelCreator\LevelCreator\LevelCreator\bin\x86\Debug\Content\smallYeti.xnb
